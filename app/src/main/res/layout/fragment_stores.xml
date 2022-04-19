@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.StoresFragment"
+    android:paddingStart="8dp"
+    android:paddingEnd="8dp">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/disclaimer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="8dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_disclaimer">
+            <ImageView
+                android:id="@+id/closeBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_action_close"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="5dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/these_are_all_the_stores_with_amazing_black_friday_deals"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorAccent"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"/>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+ <androidx.recyclerview.widget.RecyclerView
+     android:layout_below="@+id/disclaimer"
+     android:layout_marginTop="8dp"
+     android:layout_marginBottom="8dp"
+     android:id="@+id/storesRecycler"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"/>
+
+</RelativeLayout>

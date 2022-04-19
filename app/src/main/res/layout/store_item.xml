@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:layout_marginTop="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/storeImage"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="5dp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:src="@drawable/blackimag"
+            android:scaleType="fitXY"/>
+        <TextView
+            android:id="@+id/storeTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/storeImage"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:text="@string/tiptitle1"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+        <TextView
+            android:id="@+id/storeDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/storeTitle"
+            android:layout_marginTop="8dp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:gravity="center"
+            android:text="@string/tipdesc1"
+            android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+        <Button
+            android:id="@+id/visitStoreBtn"
+            android:background="@drawable/button_background"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:layout_below="@+id/storeDesc"
+            android:layout_centerInParent="true"
+            android:text="@string/visit_store"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:drawableStart="@drawable/ic_action_open"
+            android:drawablePadding="10dp"
+            android:textColor="@color/colorWhite"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

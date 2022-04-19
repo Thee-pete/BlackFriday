@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingStart="8dp"
+    android:paddingEnd="8dp"
+    app:cardCornerRadius="10dp"
+    android:layout_marginTop="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/containertwo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/appImg"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/blackimag"
+            android:scaleType="fitXY"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="5dp"/>
+
+        <LinearLayout
+            android:id="@+id/contDets"
+            android:layout_toEndOf="@+id/appImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/appTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:layout_marginTop="5dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"/>
+            <TextView
+                android:id="@+id/appDesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+
+        </LinearLayout>
+        </RelativeLayout>
+
+
+        <Button
+            android:id="@+id/getAppBtn"
+            android:background="@drawable/button_background"
+            android:layout_below="@+id/containertwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:text="@string/get_app"
+            android:textColor="@color/colorWhite"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:drawableStart="@drawable/ic_action_getapp"
+            android:drawablePadding="10dp"
+
+            />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

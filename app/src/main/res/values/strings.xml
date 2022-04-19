@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Black Friday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="visit_store">Visit Store</string>
+
+    <string name="get_app">Get App</string>
+    <string name="these_are_all_the_apps_with_amazing_black_friday_deals">These are all the apps with amazing black friday deals</string>
+    <string name="these_are_all_the_stores_with_amazing_black_friday_deals">These are all the stores with amazing black friday deals</string>
+
+
+    <string name="banneradunit">ca-app-pub-3609953011019731/1259452686</string>
+    <string name="interstitialadunit">ca-app-pub-3609953011019731/3498587307</string>
+
+
+
+    <string name="tiptitle1">1. Shop Using Discounted Gift Cards</string>
+    <string name="tipdesc1">It is always fun to get a deal. It’s even better to get a great deal. A simple way to do this is to shop with discounted gift cards.You can find gift cards for hundreds of retailers online from sites such as Raise.com. </string>
+    <string name="tiptitle2">2. Sign Up for Emails</string>
+    <string name="tipdesc2">Decide which stores you will shop at this year. Visit each website and sign up for email newsletters. It is important that you do this at least two weeks before Black Friday. It can take time before the emails start to generate, so you want to allow ample time to get added to the list.</string>'
+    <string name="tiptitle3">3. Prioritize Your Shopping List</string>
+    <string name="tipdesc3">When making your list of items you need to buy, list them first by store and then by order of importance. This will put the “must find” items at the top so you can first focus on finding them as you visit each store. When you get there, walk to that department first to find the item you want.</string>
+    <string name="tiptitle4">4. Have a Backup Plan</string>
+    <string name="tipdesc4">With the number of people shopping, there will be instances where you will not find the item you want. That means you need to have a backup plan in place.  Add a second item to your list, just in case you can’t find the one thing you really want.</string>
+    <string name="tiptitle5">5. Shop With a Friend</string>
+    <string name="tipdesc5">Not only is it more fun to shop with someone you love, it can be helpful too! If there are a few must-have items on your list, you can work together to find them. Your friend can visit the electronics section for the video game you want while you are in the toy aisle finding another item on your list.</string>
+    <string name="tiptitle6">6. Leave the Kids at Home</string>
+    <string name="tipdesc6">If you’re shopping in-store, this is a big tip. Although your kids may want to come with you, you’ll thank yourself that they’re being taken care of at home while you’re spending hours in line throughout the day. </string>
+    <string name="tiptitle7">7. Price Check in the Store</string>
+    <string name="tipdesc7">When you shop in-store, have your list in one hand and your phone in the other. As you find the items you want, always do a quick scan to check and see if it is less expensive elsewhere.</string>
+    <string name="tiptitle8">8. Plan Your Shopping Trip</string>
+    <string name="tipdesc8">Once you have your list ready, decide which stores you will need to visit first. I recommend you start with the one that has your must-have item. You can then figure out which ones to stop by after that. It might be based upon your list or a route.</string>
+    <string name="tiptitle9">9. Don’t Even Try to Price Match</string>
+    <string name="tipdesc9">Most stores suspend all price matching policies on Black Friday. This includes Target, Best Buy, and Walmart. Don’t even attempt to match another store’s price.</string>
+    <string name="tiptitle10">10. Shop on Wednesday</string>
+    <string name="tipdesc10">Sometimes, the Black Friday prices are not always the lowest price. Visit the store on Wednesday to find out. You might find that the price listed is the same as, if not lower than, what you will find a couple of days later. Go ahead and grab that item while you can.</string>
+
+
+
+
+    <string name="amazonTitle">Amazon</string>
+    <string name="amazondesc">Amazon manages to snag the top spot due to the sheer volume of deals it churns out during Black Friday season.</string>
+    <string name="amazonlink">https://www.amazon.com/Black-Friday/b?ie=UTF8&amp;node=384082011</string>
+
+    <string name="walmartTitle">Walmart</string>
+    <string name="walmartdesc">The big box retailer will also offer deals in nearly every category, which makes it easy to do your shopping all in one place</string>
+    <string name="walmartlink">https://www.walmart.com/cp/walmart-black-friday-2020/1076614</string>
+
+    <string name="ebayTitle">eBay</string>
+    <string name="eBaydesc">eBay is an especially great place to shop if you\'re looking for refurbished or open-box electronics.</string>
+    <string name="eBaylink">https://www.ebay.com/globaldeals</string>
+
+    <string name="kohlsTitle">Kohl\'s</string>
+    <string name="kohlsdesc">Kohl\'s doesn\'t have the same number of online Black Friday deals as stores like Amazon and Walmart, but its sales have been growing the last couple of years.</string>
+    <string name="kohlslink">https://www.kohls.com/sale-event/black-friday-deals.jsp</string>
+
+
+    <string name="bestbuyTitle">Best Buy</string>
+    <string name="bestbuydesc">The electronics retailer might boast fewer Black Friday online deals than the other stores on this list, but they\'re almost all great offers. </string>
+    <string name="bestbuylink">https://www.bestbuy.com/site/electronics/black-friday/pcmcat225600050002.c?id=pcmcat225600050002&amp;intl=nosplash</string>
+
+    <string name="dellTitle">Dell</string>
+    <string name="delldesc">Dell\'s deals come from three different retailers: Dell Home, Dell Refurbished, and Dell Technologies (formerly Dell Small Business).  </string>
+    <string name="delllink">https://www.dell.com/en-us/work/shop/deals/laptop-tablet-deals</string>
+
+
+    <string name="samsclubTitle">Sam\'s Club</string>
+    <string name="samsclubdesc">In addition to doorbuster pricing, Sam\'s Club sometimes offers two-for-one deals, as well as bundles. Sam\'s Club is a membership-only store and non-members shopping online will be charged a 10% fee when checking out.</string>
+    <string name="samsclublink">https://www.samsclub.com/b/black-friday/4820109</string>
+
+
+    <string name="macysTitle">Macy\'s </string>
+    <string name="macysdesc"> Macy\'s has traditionally offered a multi-day sale format, with online shopping available the entire time.The department store often lowers its free-shipping threshold for Black Friday and the holidays.</string>
+    <string name="macyslink">https://www.macys.com/p/black-friday/</string>
+
+    <string name="jcpennyTitle">JCPenney</string>
+    <string name="jcpennydesc"> JCPenney is traditionally very coupon- and special offer- heavy with its Black Friday sale. In previous years, those who arrived early had a chance to get a coupon for up to $500 off </string>
+    <string name="jcpennylink">https://www.jcpenney.com/m/black-friday</string>
+
+    <string name="samsungTitle">Samsung</string>
+    <string name="samsungdesc"> As expected, Samsung only carries its own line of electronics. It will feature a variety of deals on its own televisions, the Galaxy S9, Galaxy S9+, and Note9, and various tablets. </string>
+    <string name="samsunglink">https://www.samsung.com/us/shop/all-deals/</string>
+
+
+    <string name="toysrusTitle">Toys R Us</string>
+    <string name="toysrusdesc">Toys R Us is having a huge sale this year, as they will open at 5 p.m. on Thanksgiving and the sale will run through closing time on Saturday.</string>
+    <string name="toysruslink">https://www.toysrus.ca/en/black-friday-coming-soon/black-friday-coming-soon.html</string>
+
+
+    <string name="targetTitle">Target</string>
+    <string name="targetdesc">Target will stay closed on Thanksgiving this year, due to COVID-19 concerns. Those who want to start Black Friday shopping a day early can shop online. In fact, Target has a history of kicking off its online Black Friday deals early.</string>
+    <string name="targetlink">https://www.target.com/c/target-black-friday/-/N-5q0f2</string>
+
+    <string name="kmartTitle">Kmart</string>
+    <string name="kmartdesc">Kmart runs a fairly traditional sale, with doorbusters available all day Thursday and Friday.You can also shop online</string>
+    <string name="kmartlink">https://www.kmart.com/deals/kmart-black-friday.html</string>
+
+    <string name="grouponTitle">Groupon</string>
+    <string name="groupondesc">Despite being thought off as a local deals retailer, Groupon\'s ad features a surprising number of electronics and other tech items</string>
+    <string name="grouponlink">https://www.groupon.com/occasion/black-friday-deals</string>
+
+    <string name="searsTitle">Sears</string>
+    <string name="searsdesc">Sears will open at 6 p.m. on Thanksgiving Day and remain open all day Friday. Some stores will be closed on Thanksgiving, so check with your local location first.</string>
+    <string name="searslink">https://www.sears.com/deals/center/hot-deals.html/dealGrid</string>
+
+
+
+    <string name="shopsavvy">ShopSavvy</string>
+    <string name="shopsavvydesc">Shoppers who are serious about finding sales can download ShopSavvy to get up-to-date news about the best deals going on at a range of popular stores.</string>
+    <string name="shopsavvylink">https://play.google.com/store/apps/details?id=com.biggu.shopsavvy</string>
+
+    <string name="flipptitle">Flipp</string>
+    <string name="flippdesc">Flipp is a smartphone app that removes the clutter of traditional paper ads and replaces them with digital versions from retailers such as Walmart and Target.</string>
+    <string name="flipplink">https://play.google.com/store/apps/details?id=com.wishabi.flipp</string>
+
+    <string name="pctitle">Price Cruncher</string>
+    <string name="pcdesc">Figuring out which deals are worthwhile can be tough. Enter Price Cruncher, an app that helps shoppers do the math to see which offers are the better buys.</string>
+    <string name="pclink">https://play.google.com/store/apps/details?id=ca.brainservice.pricecruncher.free</string>
+
+
+    <string name="tcatitle">The Coupons App</string>
+    <string name="tcadesc">This app promises to give users deals, coupons and online promo codes from over 100,000 retailers. Use it to search for deals from your favorite stores and set your location to get notified when new local deals become available.</string>
+    <string name="tcalink">https://play.google.com/store/apps/details?id=thecouponsapp.coupon</string>
+
+
+    <string name="amazontitle">Amazon</string>
+    <string name="amazonappdesc">The Amazon Shopping app lets you shop millions of products and manage your Amazon orders from anywhere. Browse, shop by department, compare prices, read reviews, share products with friends, and check the status of your orders.</string>
+    <string name="amazonapplink">https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping</string>
+
+</resources>
